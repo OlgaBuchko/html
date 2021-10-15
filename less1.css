@@ -1,0 +1,49 @@
+h1{
+    background-color: skyblue;
+    color: blue;
+    text-align: center;
+}
+p{
+    background-color: plum;
+    color: darkviolet;
+    text-align: justify;
+}
+.allPony{
+    height: 500px;
+
+}
+h2{
+    background-color: darkturquoise;
+    color: #08082d;
+    text-align: center;
+}
+li{
+   list-style: none;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+#desh{
+    border: #057ca1 5px solid;
+
+}
+#apple{
+    border: orangered 5px solid;
+}
+#flater{
+    border: yellow 5px solid;
+}
+#pinky{
+    border: deeppink 5px solid;
+}
+#twilet{
+    border: #330080 5px solid;
+}
+#rerity{
+    border: blue 5px solid;
+}
