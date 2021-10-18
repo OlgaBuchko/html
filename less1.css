@@ -1,16 +1,35 @@
-h1{
-    background-color: skyblue;
+.h1{
+    display: flex;
+    justify-content: center;
+
     color: blue;
-    text-align: center;
 }
-p{
+.h_border{display: flex;
+    justify-content: center;
+    border: skyblue 1px solid ;
+border-radius: 60%;
+    background-color: skyblue;
+    width: 65%;
+}
+.h_border2{display: flex;
+    justify-content: center;
+    border: darkturquoise 1px solid ;
+    border-radius: 60%;
+    background-color: darkturquoise;
+    width: 65%;
+margin: 0 25% ;
+;
+}
+p{width: 75%;
+
     background-color: plum;
     color: darkviolet;
     text-align: justify;
 }
 .allPony{
-    height: 500px;
-
+    display: flex;
+justify-content: center;
+   height: 500px;
 }
 h2{
     background-color: darkturquoise;
