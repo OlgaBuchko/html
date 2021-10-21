@@ -1,9 +1,7 @@
 .all{
     width: 500px;
     height: 850px;
-
 }
-
 .widgets, .big_widgets, .bigger_widgets, .huge_widgets{
     height: 200px;
 }

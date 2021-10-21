@@ -1,5 +1,7 @@
 .header, .nav, .footer, .main_as{
     width: 700px;
+}
+.flex{
     display: flex;
 }
 .header{
@@ -8,25 +10,24 @@
     border-bottom: 4px #55c5ee solid;
 }
 .nav{
-    height: 100px;
     background-color: #03236b;
 }
 .main_as, .main, .aside{
     height: 500px;
 }
+.nav, .footer{
+    height: 100px;
+}
 .main{
 width: 500px;
     border-right: #6bcffa 4px solid;
     background-color: #18c9d9;
-    display: flex;
 }
 .aside{
     background-color: #3222ef;
     width: 200px;
-    display: flex;
 }
 .footer{
-    height: 100px;
     background-color: skyblue;
 }
 .header, .nav, .footer,.aside, .footer, .main{

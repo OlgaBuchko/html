@@ -1,37 +1,30 @@
 .all{
     width: 624px;
     height: 824px;
-
 }
+.flex{display: flex}
 #header, #footer{
     width: 600px;
     height: 150px;
     background-color: #93ef93;
     margin: 12px;
 }
-.center{
-    display: flex;
-    width: 624px;
-    height: 500px;
-
-}
 #menu{
     width: 188px;
-    height: 500px;
     background-color: #e859a5;
     margin: 0 12px 0 12px;
 }
 .post_post{
-    display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 500px;
-    width: 400px;
-
 }
 .post{
     height: 244px;
-    width: 400px;
     background-color: #305be1;
-
+}
+.post_post, .post{
+    width: 400px;
+}
+#menu, .center, .post_post{
+    height: 500px;
 }
