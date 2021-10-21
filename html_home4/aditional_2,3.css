@@ -1,0 +1,111 @@
+.silver{
+    background-color: silver;
+}
+.gray{
+    background-color: gray;
+}
+.conteiner{
+    width: 400px;
+    height: 100%;
+    border: black 5px solid;
+}
+.header{
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    height: 120px;
+}
+
+.buttom{
+    width: 100%;
+    height: 40px;
+}
+
+.part3{width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.img{
+    width:100%;
+    height:180px;
+
+}
+.part4{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height:305px ;
+
+}
+
+.bloks4{
+    width: 180px;
+    height: 130px;
+
+
+
+}
+.part5{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+
+}
+.blokspart5{
+    display: flex;
+    flex-direction: column;
+}
+.bloks12{
+    width: 380px;
+    height: 50px;
+}
+.buttom{
+    width: 390px;
+    display: flex;
+    justify-content: center;
+}
+.butt{
+    width: 100px;
+    height: 25px;
+}
+.part6{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.leftpart6{
+    width: 380px;
+    height: 70px;
+}
+.right6{
+    width: 380px;
+    height:290px ;
+}
+.part7{width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.top7{
+    width: 380px;
+    height: 30px;
+
+}
+.bottom7{
+    width: 100px;
+    height: 30px;
+}
+.header, .part3, .part4, .part5, .part6{
+    border-bottom: 5px black solid;
+    box-sizing: border-box;
+}
+.buttom, .img, .bloks4, .bloks12, .leftpart6, .right6, .top7, .bottom7{
+margin: 10px;}

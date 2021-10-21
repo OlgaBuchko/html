@@ -1,0 +1,118 @@
+
+.silver{
+    background-color: silver;
+}
+.gray{
+    background-color: gray;
+}
+.conteiner{
+    width: 900px;
+    height: 100%;
+    border: 5px black solid;
+}
+.body{
+    display: flex;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+}
+.left{
+    width: 20%;
+    height: 1705px;
+    border-right:5px black solid ;
+    box-sizing: border-box;
+
+}
+.leftbuttoms, .rightbuttoms{
+    margin: 20px;
+    width: 130px;
+    height: 53px;
+}
+.right{
+    width: 80%;
+    height: 100%;
+}
+.part3{width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+.img{
+    width:100%;
+    height:360px;
+    background-color: gray;
+    margin: 20px;
+}
+.part4, .part7{
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.bloks4{
+    width: 20%;
+    height: 160px;
+    margin: 20px 20px;
+
+}
+.parts5_6{
+    display: flex;
+}
+.part5{
+    width: 75%;
+    border-right: black 5px solid;
+
+}
+.bloks{
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+.bloks12{
+    width: 225px;
+    height: 100px;
+    margin: 20px;
+}
+.buttom{display: flex;
+    justify-content: center;
+}
+.butt{
+    width: 100px;
+    height: 25px;
+}
+.part6{
+    height: 900px;
+    width: 25%;
+}
+.right4{
+    width: 140px;
+    height: 50px;
+    margin: 20px;
+}
+.part7{
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-top: black 5px solid;
+}
+.top7{
+    width: 680px;
+    height: 45px;
+    margin: 20px;
+}
+.bottom7{
+    width: 150px;
+    height: 45px;
+}
+.header, .part3, .part4{
+    border-bottom: 5px black solid;
+    box-sizing: border-box;
+}

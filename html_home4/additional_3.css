@@ -1,0 +1,258 @@
+.box{width: 1000px;
+    margin-left: 25%;
+}
+.circle{
+    height: 40px;
+    display: flex;
+}
+.red, .yellow, .green{
+    width: 20px;
+    height: 20px;
+    border: 2px solid;
+    border-radius: 50%;
+    margin: 10px;
+}
+.red{
+    background-color: red;
+    border: red;
+}
+.yellow{
+    background-color: yellow;
+    border: yellow;
+}
+.green{
+    background-color: green;
+    border: green;
+}
+.silver{
+    background-color: silver;
+}
+.lightGrey{
+    background-color: #9b9b9b;
+    border: #9b9b9b 2px solid;
+    border-radius: 5px;
+}
+.grey{
+    background-color: #646464;
+    border: #646464 2px solid;
+    border-radius: 5px;
+}
+.inputs{height: 40px;
+    display: flex;
+    border-bottom: #646464 3px solid;
+}
+.left1, .right2{
+    height: 20px;
+    width: 130px;
+    margin: 10px;
+}
+.left2, .right1{
+    height: 20px;
+    width: 80px;
+    margin: 10px;
+}
+.center{
+    height: 20px;
+    width: 700px;
+    margin: 10px;
+    background-color: white;
+    border: white 2px solid;
+    border-radius: 5px;
+}
+.header{
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+.header_left{
+    width: 70px;
+    height: 70px;
+    border: #646464 2px solid;
+    border-radius: 50%;
+    margin: 15px;
+}
+.header_right{width: 85%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.headR{
+    width: 15%;
+    height: 20px;
+    margin: 20px;
+}
+.hero{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.hero_top{
+    width: 30%;
+    height: 30px;
+}
+.hero_center{
+    width: 50%;
+    height: 30px;
+    margin: 10px;
+    align-items: center;
+}
+.hero_bottom{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.hero_left{
+    width: 40%;
+    height: 40px;
+    background-color: white;
+    border-right: white 2px solid ;
+    border-radius: 35px;
+    margin: 30px 0 0 0;
+}
+.hero_right{
+    width: 30%;
+    height: 50px;
+    border-radius: 35px;
+    margin: 22px 0 0 -30px
+}
+.destinations{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.des_top{
+    width: 70%;
+    height: 30px;
+    margin: 20px 0;
+}
+.des_center{
+    width: 60%;
+    height: 20px;
+
+
+}
+.des_bottom{
+    width: 50%;
+    height: 20px;
+    margin: 20px 0;
+}
+.menu{
+    display: flex;
+    width: 100%;
+    height: 640px;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.w320{
+    width: 320px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.w660{
+    width: 660px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.top70{
+    width: 70%;
+    height: 20px;
+}
+.bottom60{
+    width: 60%;
+    height: 10px;
+    margin-top: 10px;
+}
+.offer{
+    display: flex;
+    width: 100%;
+}
+.offers_block{width: 100%;
+    display: flex;
+}
+.offer_img{
+    width: 30%;
+    height: 200px;
+    margin: 5px 20px;
+}
+
+.destinations2{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.des_top2{
+    width: 70%;
+    height: 30px;
+    margin: 10px 0;
+}
+.des_center2{
+    width: 60%;
+    height: 20px;
+
+
+}
+.des_bottom2{
+    width: 30%;
+    height: 10px;
+    margin: 10px 0;}
+
+.destinations4{
+    width: 50%;
+    height: 20px;
+margin-bottom: 5px;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: 200px;
+}
+.footer_colomn{
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+}
+.line1{
+    width: 60%;
+    height: 10px;
+    margin: 10px 0 10px 40px;
+}
+.line2{
+    width: 50%;
+    height: 10px;
+    margin: 10px 0 10px 40px;
+}
+.footer_colomn2{
+display: flex;
+    width: 25%;
+    flex-direction: column;
+}
+.line3{
+    display: flex;
+    width: 75%;
+    height: 15px;
+    margin: 10px;
+
+}
+.circle2{
+    width: 50px;
+    height: 50px;
+    border: #9b9b9b 2px solid;
+    border-radius: 50%;
+    margin: 10px;
+}
+.colomn3{
+    display: flex;
+}
