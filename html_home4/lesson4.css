@@ -85,7 +85,6 @@ margin-right: 5px;
     flex-direction: column;
    align-items: center;
     padding-top: 15px;
-
 }
 .flex{
     display: flex;
@@ -99,7 +98,6 @@ flex-direction: column;
 .sqare{
     width: 100%;
     height: 130px;
-
 }
 .circle_box{
     width: 100%;
@@ -123,12 +121,9 @@ flex-direction: column;
     width: 170px;
     height: 170px;
     border-radius: 50%;
-
 }
-
 .circle_h3>h3{
     color: #b9b6b6;
-
 }
 .circle_h3:nth-child(2){
     border:#0dcffa 2px solid ;
@@ -141,7 +136,6 @@ flex-direction: column;
     width: 29%;
     height: 350px;
     margin: 15px;
-
 }
 .body_h2>h2{text-align: center}
 .body_center{
