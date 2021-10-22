@@ -1,0 +1,30 @@
+.all{
+    width: 624px;
+    height: 824px;
+}
+.flex{display: flex}
+#header, #footer{
+    width: 600px;
+    height: 150px;
+    background-color: #93ef93;
+    margin: 12px;
+}
+#menu{
+    width: 188px;
+    background-color: #e859a5;
+    margin: 0 12px 0 12px;
+}
+.post_post{
+    flex-direction: column;
+    justify-content: space-between;
+}
+.post{
+    height: 244px;
+    background-color: #305be1;
+}
+.post_post, .post{
+    width: 400px;
+}
+#menu, .center, .post_post{
+    height: 500px;
+}
