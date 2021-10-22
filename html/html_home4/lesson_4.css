@@ -1,0 +1,236 @@
+body{
+    max-width: 1000px;
+}
+.blue{
+    background-color: #0dcffa;
+}
+.darkblue{
+    background-color: #1c3562;
+}
+.grey{background-color: #b9b6b6
+}
+*{
+    margin: 0;
+}
+.ikons{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5%;
+    height:30px ;
+    list-style:none ;
+    align-items: center;
+}
+.ikons_right{
+    width: 50px;
+    height: 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+
+}
+.header_left:hover, li:hover, .bottom:hover, .linka:hover, .icons_one:hover,
+.linka2:hover, .icons_one2:hover, .footer_icon:hover
+{cursor: pointer;
+    background-color: blue;
+    text-decoration: none;
+}
+.ikons_right2{
+    width: 70px;
+    height: 20px;
+    border-radius: 10px;
+    margin: 5px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header_left{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.header_menu{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25%;
+}
+.header_text{
+    line-height: 25px;
+    color: #1c3562;
+}
+.header_menu>h1, .h2>h2, .h3_sqare>h3, .body_h2>h2{
+    color: #1c3562;
+    margin-top: 15px;
+}
+.bottom{
+    width: 150px;
+    height: 40px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.sqare_blox{
+    width: 100%;
+    justify-content: center;
+    padding: 30px 0;
+}
+.border{width: 80%;
+    border:#0dcffa 2px solid ;
+    border-radius: 25px;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+}
+.flex{
+    display: flex;
+}
+.h3_sqare{
+    flex-direction: column;
+    width: 170px;
+    margin: 15px;
+    text-align: center;
+}
+.sqare{
+    width: 100%;
+    height: 130px;
+}
+.circle_box{
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+}
+.circle_h3{
+    flex-direction: column;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    margin: 35px 35px;
+    justify-content: center;
+    align-items: center;
+}
+.circle_h3 h3{
+    line-height: 25px;
+    margin: 10px;
+}
+.circle{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+}
+.circle_h3>h3{
+    color: #b9b6b6;
+}
+.circle_h3:nth-child(2){
+    border:#0dcffa 2px solid ;
+}
+.body{
+    width: 100%;
+    flex-direction: column;
+}
+.body_box{
+    width: 29%;
+    height: 350px;
+    margin: 15px;
+}
+.body_h2>h2{text-align: center}
+.body_center{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0 70px;
+}
+.body_block{
+    width: 90%;
+    height: 130px;
+    margin: 5px;
+    border-radius: 25px;
+}
+.body_icons{
+    width: 100%;
+    justify-content: space-between;
+}
+.icons_one{
+    width: 70px;
+    height: 15px;
+    border-radius: 50px;
+    margin: 15px;
+}
+.icons_two{
+
+    height: 15px;
+    margin: 15px;}
+
+.linka{
+    width: 30px;
+    height: 100%;
+    border-radius: 50px;
+    margin: 5px}
+.h3_p{
+    flex-direction: column;
+    text-align: start;
+    margin: 15px;
+}
+
+.icons_one2{
+    width: 50px;
+    height: 25px;
+    border-radius: 50px;
+    margin: 15px;
+}
+.linka2{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin: 5px}
+.border_top{
+    border-top:#0dcffa 2px solid ; ;
+}
+.body_footer{
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.right,.left{
+    width: 40%;
+    height: 250px;
+    flex-direction: column;
+    justify-content: space-around
+
+
+}
+.left_text>h1,.left_text>p {
+    color: #0dcffa;
+}
+.right_text>h1, .right_text>p{
+    color:#1c3562;
+}
+.right_text, .left_text{
+    flex-direction: column;
+    align-content: flex-start;
+    margin: 20px;
+}
+.buttommarg{
+    justify-content: center;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.footer_icon{
+    width: 40px;
+    height: 40px;
+    border-radius:10px;
+    margin: 15px;
+}
+.footer_down{
+    width: 45%;
+    height: 10px;
+}
