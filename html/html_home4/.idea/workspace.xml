@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="665fc75e-7ec5-4a91-81b5-2ec8dd91ada4" name="Changes" comment="class work 4">
+      <change afterPath="$PROJECT_DIR$/../html/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/.idea/html_home4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional_2,2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional_2,2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional_2,3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional_2.ccs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/additional_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/additional 3/aditional_2,3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/class_work3/classwork4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/class_work3/classwork4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/class_work3/classwork4_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/class_work3/classwork4_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/class_work3/classwork4_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/class_work3/classwork4_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4_4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/home4_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/lesson4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/home_work3-4/lesson4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/html_les1-3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/html_les1-3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/html_les1-3/.idea/projekt_ola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/html_les1-3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/html_les1-3/imeig/завантаження (1).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/html_les1-3/index_les1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/html_les1-3/less1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_2,2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_2,2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_2,3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_2.ccs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/additional_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aditional_2,3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork4_2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork4_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork4_3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classwork4_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4_1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4_2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4_3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4_4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home4_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="lesson_4_html" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1ziLfrW3McMedrnVngt8VQdqL9a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="665fc75e-7ec5-4a91-81b5-2ec8dd91ada4" name="Changes" comment="" />
+      <created>1634626069228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634626069228</updated>
+      <workItem from="1634626070454" duration="7430000" />
+      <workItem from="1634641663331" duration="391000" />
+      <workItem from="1634642522938" duration="8786000" />
+      <workItem from="1634653319219" duration="520000" />
+      <workItem from="1634653930042" duration="5668000" />
+      <workItem from="1634721447949" duration="25574000" />
+      <workItem from="1634803267177" duration="41068000" />
+      <workItem from="1634893521772" duration="20918000" />
+    </task>
+    <task id="LOCAL-00001" summary="home work 4 HTML">
+      <created>1634652408744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634652408744</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" add home work 4.4">
+      <created>1634660508948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634660508948</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add classwork">
+      <created>1634735232715</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634735232715</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add homework 4_4">
+      <created>1634735692881</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634735692881</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add homework 4_4">
+      <created>1634735760728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634735760728</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add homework 4_4">
+      <created>1634736296640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634736296640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add additional file">
+      <created>1634830672104</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634830672104</updated>
+    </task>
+    <task id="LOCAL-00008" summary="optimisation code">
+      <created>1634834264704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634834264704</updated>
+    </task>
+    <task id="LOCAL-00009" summary="class work">
+      <created>1634913996964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634913996964</updated>
+    </task>
+    <task id="LOCAL-00010" summary="class work 4">
+      <created>1634914297606</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634914297606</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="home work 4 HTML" />
+    <MESSAGE value=" add home work 4.4" />
+    <MESSAGE value="add classwork" />
+    <MESSAGE value="add homework 4_4" />
+    <MESSAGE value="add additional file" />
+    <MESSAGE value="optimisation code" />
+    <MESSAGE value="class work" />
+    <MESSAGE value="class work 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="class work 4" />
+  </component>
+</project>
