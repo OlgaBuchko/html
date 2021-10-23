@@ -1,0 +1,39 @@
+@media screen and (max-width: 830px) and (min-width: 540px){
+   li.ikons_right{
+        width: 90px;
+        height: 25px;
+    }
+
+ul.ikons{
+    justify-content: space-between;
+}
+.border>.flex{
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.circle_box{
+    flex-wrap: wrap;
+}
+.body_box{
+    width: 45%;
+    height: 300px;
+    margin: 5px;
+}
+.h3_p>p{
+    display: none;
+}
+.h3_p>h3{
+    margin: 0;
+}
+.body_icons>.icons_one, .body_icons>.icons_two, .body_icons>.icons_one2{
+    margin: 5px;
+}
+}.right>.right_text, .left>.left_text{margin: 15px}
+@media screen and(max-width:540px){
+.sqare{
+    background-color: red;
+}
+    .ikons_right{
+        background-color: green;
+    }
+}
