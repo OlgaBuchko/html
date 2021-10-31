@@ -1,0 +1,98 @@
+.header{
+    width: 1440px;
+    height: 800px;
+    background: url("hero image.png") no-repeat center/cover;
+    position: relative;
+}
+a, .nav-link{
+    color: #fff;
+    text-decoration: none;
+}
+.header_top{height: 168px;
+    margin: 50px 165px;}
+.phone_img{
+    width: 23px;
+    height: 23px;
+    margin: 0;
+}
+.phone{
+    width: 162px;
+    height: 50px;
+}
+.phone_number{
+    height: 25px;
+    line-height:25px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0;
+}
+.menu{
+    border-right: 1px solid #FFFFFF;}
+.button_top{
+    background-color: #FF7400;
+    border-radius: 0;
+}
+.header_top{height: 168px;
+    margin: 50px 165px;
+}
+.bar{
+    width: 742px;
+    height: 64px;}
+.size50{
+    font-size: 50px;
+    line-height: 57px;
+    margin-left: 199px;
+    margin-top: 55px;
+}
+.size50>a, .size80>a{
+    color: #D67E35;
+}
+.size80{
+    font-size: 80px;
+    line-height: 92px;
+    margin-left: 175px;
+}
+.left_line, .right_line{
+    width: 61px;
+    height: 2px;
+    background: #C4C4C4;
+}
+.size18{
+    font-size: 18px;
+    line-height: 25px;
+    margin: 0 5px;
+}
+.line_p{
+    margin-left:  271px;
+    align-items: center;
+}
+.button_center{
+    width: 137px;
+    height: 47px;
+    margin-left: 356px;
+margin-top: 20px;}
+.body{
+    width: 1440px;
+}
+.top_menu>img{
+    width: 126px;
+    height: 104px;}
+.top_menu{background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    position: relative;
+    bottom: 120px;
+    height: 328px;
+    width: 349px;
+}
+.top_menu>p{
+    margin: 20px;
+    text-align: center;}
+h1{
+    font-size: 26px;
+    line-height: 30px;
+}
+span{
+    color: darkgoldenrod;
+}
+.card-body{margin: 0}
